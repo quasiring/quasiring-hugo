@@ -29,15 +29,15 @@ title = "Quasiring"
 # consult this documentation for explaination
 [params]
   editURL = "https://github.com/McShelby/hugo-theme-relearn/edit/main/exampleSite/content/"
-  description = "Documentation for Hugo Relearn Theme"
-  author = "Sören Weber"
+  description = "Haskell and Imaginary Programming"
+  author = "Shane Mulligan"
   showVisitedLinks = true
   collapsibleMenu = true
   disableBreadcrumb = false
   disableNextPrev = false
   disableLandingPageButton = true
   titleSeparator = "::"
-  themeVariant = [ "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
+  themeVariant = [ "relearn-dark", "relearn-light", "learn", "neon", "blue", "green", "red" ]
   disableSeoHiddenPages = true
   # this is for the stylesheet generator to allow for interactivity in mermaid
   # graphs; you usually will not need it and you should remove this for
